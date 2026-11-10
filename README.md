@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Patrick 👋
 
-<!--
-**Strings94/Strings94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a support and troubleshooting pro with 10 years of customer-facing experience, now studying Computer Science at University of Phoenix.
 
-Here are some ideas to get you started:
+## What I bring
+- Resolving billing, account, and technical issues for consumer and business customers
+- Evidence-based troubleshooting from years as a telecom and fiber technician
+- Explaining technical details in plain language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- 🏠 Home Assistant on a Raspberry Pi 5
+- 🖥️ A home lab to support my CS coursework
+- 🤖 Learning Python and AI fundamentals
+
+## Outside of tech
+I play guitar (hence the username 🎸).
+
+📫 Reach me on www.linkedin.com/in/patrick-richards-94b942259
